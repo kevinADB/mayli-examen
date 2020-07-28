@@ -1,0 +1,16 @@
+body{
+	background: url(../img/fon.jpg) no-repeat fixed center center;
+	background-size: cover;
+}
+
+
+footer{
+	
+	background: url(../img/pie.jpg) no-repeat fixed  center center;
+    background-size: cover;
+    text-align: center;
+	align-self: flex-end;
+	color: red;
+	padding-top: 15px;
+
+	}

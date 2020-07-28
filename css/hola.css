@@ -1,0 +1,19 @@
+.verdeclaro{
+	background-color: #b2ffb3;
+}
+.verdeoscuro{
+	background: green;
+	color: white;
+}
+.titulo{
+	text-align: center;
+	color: red;
+}
+.letra{
+	color: blue;
+	text-align: center;
+}
+.filacolor{
+	background: #91A96A;
+	text-align: center;
+}
